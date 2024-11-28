@@ -59,7 +59,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoVidespon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoVidespon&layout=compact&theme=radical)
 
-## 🌐 Conecta conmigo
+## 🌐 Contactate conmigo
 <p align="center">
   <a href="mailto:nicovidespon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/NicoVidespon"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
