@@ -55,6 +55,10 @@
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
 </p>
 
+## 📊 Mis estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoVidespon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoVidespon&layout=compact&theme=radical)
+
 ## 🌐 Conecta conmigo
 <p align="center">
   <a href="mailto:nicovidespon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
