@@ -28,6 +28,7 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776CC.svg?style=plastic&logo=python&logoColor=white"></a>
 </p>
 
 ### 🚀 Frameworks and Tools
@@ -44,6 +45,7 @@
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776CC.svg?style=plastic&logo=python&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white"></a>
@@ -53,11 +55,11 @@
 <p align="center">
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776CC.svg?style=plastic&logo=python&logoColor=white"></a>
 </p>
 
 ### 💻 Additional Skills
 <p align="center">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776CC.svg?style=plastic&logo=python&logoColor=white"></a>
   <a href="#"><img alt="River Plate" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Club_Atl%C3%A9tico_River_Plate_logo.svg" width="60" height="60"></a>
   <a href="#"><img alt="Computer" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Computer_icon.svg" width="60" height="60"></a>
 </p>
@@ -72,4 +74,5 @@
   <a href="https://github.com/NicoVidespon"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
 </p>
+
 
