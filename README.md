@@ -58,12 +58,6 @@
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776CC.svg?style=plastic&logo=python&logoColor=white"></a>
 </p>
 
-### 💻 Additional Skills
-<p align="center">
-  <a href="#"><img alt="River Plate" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Club_Atl%C3%A9tico_River_Plate_logo.svg" width="60" height="60"></a>
-  <a href="#"><img alt="Computer" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Computer_icon.svg" width="60" height="60"></a>
-</p>
-
 ## 📊 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoVidespon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoVidespon&layout=compact&theme=radical)
